@@ -1,0 +1,21 @@
+{
+	"node": "n8n-nodes-base.whatsAppIntegration",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "HITL"],
+	"subcategories": {
+		"HITL": ["Human in the Loop"]
+	},
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://docs.evolars.com.br/nodes/whatsapp/"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://docs.evolars.com.br/nodes/whatsapp/"
+			}
+		]
+	}
+}
